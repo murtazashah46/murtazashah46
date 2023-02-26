@@ -1,6 +1,6 @@
 - 👋 Hi, I’m murtazashah
-- 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in Cloud, DevOps and Backend Engineering
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 murtazashah46@gmail.com
 
